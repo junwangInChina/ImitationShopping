@@ -1,0 +1,6 @@
+framework module Pods_ImitationShopping {
+  umbrella header "Pods-ImitationShopping-umbrella.h"
+
+  export *
+  module * { export * }
+}

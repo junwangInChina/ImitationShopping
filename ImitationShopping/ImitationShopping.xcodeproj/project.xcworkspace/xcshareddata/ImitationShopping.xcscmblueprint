@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "924972FA8FB519FFAB98E2B6D30421E5DCD43BAE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "57B80B00B8D098FCE4AF697556709064A1870985" : 0,
+    "924972FA8FB519FFAB98E2B6D30421E5DCD43BAE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B703EC39-3563-4BCB-B7EF-8CBC2131EA8C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "57B80B00B8D098FCE4AF697556709064A1870985" : "",
+    "924972FA8FB519FFAB98E2B6D30421E5DCD43BAE" : "ImitationShopping\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ImitationShopping",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ImitationShopping\/ImitationShopping.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/junwangInChina\/JWTestSourceTree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "57B80B00B8D098FCE4AF697556709064A1870985"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/junwangInChina\/ImitationShopping.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "924972FA8FB519FFAB98E2B6D30421E5DCD43BAE"
+    }
+  ]
+}

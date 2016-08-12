@@ -1,0 +1,16 @@
+platform :ios, '9.1'
+inhibit_all_warnings!
+use_frameworks!
+
+target:'ImitationShopping' do
+
+    pod 'SDWebImage', '3.8.1'
+    #pod 'VTMagic', '1.2.3'
+    pod 'VTMagic', :git => 'https://github.com/tianzhuo112/VTMagic.git'
+    
+    pod 'SnapKit', '0.21.1'
+    pod 'Alamofire', '3.4.1'
+    pod 'SwiftyJSON', '2.3.2'
+
+end
+
